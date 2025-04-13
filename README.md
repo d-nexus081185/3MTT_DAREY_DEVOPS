@@ -2,7 +2,7 @@
 This project is to install and set up tools needed for my deveops learning.
 
 ## 1. VS-CODE WELCOME SCREEN
-    ![VSCODE](img/08.jpeg)    
+    ![](img/08.jpeg)    
 
 ## 2. GIT INSTALLATION CONFIRMATION
   `GIT Installed Successfully`
